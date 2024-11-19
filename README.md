@@ -1,11 +1,16 @@
 # Lab 05 - Creative Coding with Hydra
-Let's explore creative coding and "live coding".
+Let's explore creative coding and "live coding"! In this lab we'll be using [Hydra](https://hydra.ojack.xyz/), a tool for live coding interesting visuals. Hydra has a lot of support for new users, but it's best to learn by starting to play around. In addition to the [Hydra Documentation](https://hydra.ojack.xyz/docs/), consider checking out these resources:
 
-## Introduction
+- What is modulation? https://hydra-book.glitch.me/#/modulation
+- How to use textures? https://hydra-book.glitch.me/#/textures  
+- A short starter walkthrough: https://www.clipsoundandmusic.uk/hydra-tutorial-a-beginners-guide-to-live-coding-visuals/
+
+All credit to the creator of hydra, [olivia](https://ojack.xyz/), and the hydra community.
+
 If you're interested in learning more about live coding, check out [this guide](https://static.livecodingbook.toplap.org/books/livecoding.pdf).
          
 ## Lab Puzzles:
-The goal of each puzzle will be to replicate the look of each puzzle’s image.
+The goal of each puzzle will be to replicate the look of each puzzle’s image by exploring the hydra api.
 
 ### 1. Puzzle 1: You're getting sleepy
 
@@ -20,13 +25,9 @@ The goal of each puzzle will be to replicate the look of each puzzle’s image.
      
 ### 3. Your own cool effect!
 
-   * Use one of the provided texture png’s in order to add a screenspace shadow pattern onto the shadows of the scene!
-   * Hint 1: What does the "ShadowAttenuation" variable do?
+   * Create your own shader effect! If you need a starting point, try starting with the "random" button at the top of the hydra page.
   
-Extra Credit:
- * Add some soft interpolation at the edges of your bands, for smooth transitions between color bands. Create a "smoothness" parameter that adjusts the degree of smoothness!
-
 # Submission:
 - Create a pull request against this repository
-- In your readme, add screenshots of your results for Puzzles 1, 2 and 3
+- In your readme, add links to your solutions for each of the puzzles, three links total
 - Profit
