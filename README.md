@@ -23,6 +23,8 @@ https://hydra.ojack.xyz/?sketch_id=BP2QJ5rpkgNpPxow
 ### 2. Puzzle 2: Dancing Squares
 [![Image from Gyazo](https://i.gyazo.com/95ace79f6d2ca24f563a6a79fdcc4f51.gif)](https://gyazo.com/95ace79f6d2ca24f563a6a79fdcc4f51)
 
+https://hydra.ojack.xyz/?sketch_id=cLFoMGJbJTVTjFNs
+
    * Starting with [this code](https://hydra.ojack.xyz/?sketch_id=FpvaIGZZzA87TUA4) as a base, replicate the above animation.
      
 ### 3. Your own cool effect!
